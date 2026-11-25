@@ -7,7 +7,7 @@ environment reads, so every run produces the same bytes.
 
 from pathlib import Path
 
-LINE = "My agent spent forty minutes confidently rewriting a file that never existed, then apologized to it by name."
+LINE = "My agent confidently merged its own pull request, approved it, and left a review saying LGTM, great work!"
 
 OUT = Path("/output/entry.txt")
 
